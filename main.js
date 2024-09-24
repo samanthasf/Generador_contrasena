@@ -31,6 +31,7 @@ function limpiar() {
     contrasena.value = "";
     cantidad.value = "";
     seguridad.innerHTML = "";
+    imagen.src = "";
 }
 
 
